@@ -9,3 +9,30 @@ div {
   border-right-color: transparent; /* the right side */
   border-bottom-color: transparent; /* and the bottom of the circle */
 }
+
+#one{
+  background-color:#f00;
+}
+
+#two{
+  background-color: #ffa500;
+}
+
+#three {
+  background-color: #ff0;
+}
+ #four{
+  background-color: #00bc3f;
+ }
+
+ #five{
+  background-color: #06f;
+ }
+
+ #six{
+  background-color: #8a2be2;
+ }
+
+ #seven{
+  background-color: #d300c9;
+ }
